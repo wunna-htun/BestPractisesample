@@ -2,6 +2,13 @@
 Angular,Ionic,spirng,android
 
 
+# Angular Best Practise
+
+## Link
+
+`https://www.agiratech.com/top-10-angular-best-practices/`
+
+
 
 # Spring best Practise 
 # Medium link
