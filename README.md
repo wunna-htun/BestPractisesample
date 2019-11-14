@@ -4,7 +4,7 @@ Angular,Ionic,spirng,android
 
 # Angular Best Practise
 
-## Link
+#### Link
 
 `https://www.agiratech.com/top-10-angular-best-practices/`
 
@@ -16,11 +16,11 @@ Angular,Ionic,spirng,android
 `https://github.com/tomoyane/springboot-bestpractice`
 
 ## Medium link
-## Part 1
+#### Part 1
 `
 https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2
 `
-## Part 2
+#### Part 2
 `
 https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3
 `
