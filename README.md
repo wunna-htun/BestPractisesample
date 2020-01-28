@@ -29,3 +29,6 @@ https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-p
 
 `https://data-flair.training/blogs/machine-learning-datasets/?utm_source=quora&utm_medium=referral `
 
+Tutorial Link
+`https://www.guru99.com/`
+
